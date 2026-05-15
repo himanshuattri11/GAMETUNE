@@ -30,9 +30,9 @@
 
 - **UI Framework**: [Gradio](https://gradio.app/) (v6.x)
 - **LLM Provider**: [OpenRouter API](https://openrouter.ai/)
-  - **Main Model**: Llama 3.1 8B Instruct
-  - **Vision Model**: Qwen 2.5 VL 72B
-  - **Reasoning Model**: Gemini 2.0 Flash
+  - **Main Model**: DeepSeek V4 Flash (Free)
+  - **Vision Model**: Nemotron Nano 12B VL (Free)
+  - **Reasoning Model**: Nemotron 3 Super 120B (Free)
 - **Vector Database**: [ChromaDB](https://www.trychroma.com/)
 - **Embeddings**: `all-MiniLM-L6-v2` (Sentence-Transformers)
 - **Image Processing**: OpenCV & Pillow
