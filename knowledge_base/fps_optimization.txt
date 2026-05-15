@@ -1,0 +1,13 @@
+# General FPS and Optimization Guide
+
+1. Background Apps: Close all unnecessary apps to free up RAM and CPU cycles.
+2. GPU Drivers: Always keep your graphics drivers updated to the latest version.
+3. Windows Power Plan: Set your power plan to "High Performance" (Laptop users should keep it plugged in).
+4. Game Settings:
+   - Disable V-Sync to reduce input lag.
+   - Set "Shadow Quality" to Low or Medium.
+   - Set "Anti-Aliasing" to 2x or Off for maximum FPS.
+5. Thermal Management: Ensure your device is well-ventilated. Overheating causes thermal throttling.
+6. Network Lag: Use a wired Ethernet connection or 5GHz Wi-Fi.
+7. Game Mode: Enable Windows Game Mode to prioritize gaming tasks.
+8. Resolution: Lowering the resolution slightly can provide a massive FPS boost on budget hardware.

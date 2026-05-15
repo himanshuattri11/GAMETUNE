@@ -1,0 +1,11 @@
+gradio
+openai
+chromadb
+sentence-transformers
+python-dotenv
+pydantic
+opencv-python
+pillow
+numpy
+torch
+tqdm

@@ -1,0 +1,10 @@
+# Valorant Strategic Guide
+
+1. Crosshair Placement: Always keep your crosshair at head height. This minimizes the distance you need to flick to get a kill.
+2. Economy Management: Don't buy every round. Save (Eco) if your team is low on credits.
+3. Ability Usage: Use smokes to block enemy vision. Flashes should be timed with your team's entry.
+4. Communication: Call out enemy locations and damage dealt immediately.
+5. Role Awareness: Duelists should entry, Sentinels should hold sites, Initiators should clear corners.
+6. Recoil Reset: Don't spray at long range. Use 2-3 shot bursts and let the recoil reset.
+7. Post-Plant Utility: Save utility to prevent the enemy from defusing the spike.
+8. Sensitivity: Most pro players use a low sensitivity (around 200-400 eDPI) for precise aiming.

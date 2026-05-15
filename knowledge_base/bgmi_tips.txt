@@ -1,0 +1,10 @@
+# BGMI Tips and Strategies
+
+1. Sensitivity Settings: For close range, high sensitivity is better. For long range, lower your ADS sensitivity to control recoil.
+2. Attachment Priority: Compensators are best for recoil control. Extended Quickdraw mags are essential.
+3. Movement: Use "Jiggle Movement" in close-range fights to make yourself harder to hit.
+4. Sound Cues: Always wear headphones to hear footsteps and gunshots accurately.
+5. Looting: Prioritize health kits and energy drinks early game.
+6. Map Knowledge: Learn "Hot Drops" like Pochinki or Georgopol for fast combat practice.
+7. Device Optimization: Turn on "Guided Access" (iOS) or "Game Mode" (Android) to prevent notifications.
+8. Graphics: Use "Smooth" graphics with "Extreme" or "90 FPS" for the best competitive advantage.
